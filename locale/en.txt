@@ -1,0 +1,48 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = GENERAL DEPARTMENT OF TAXATION
+
+## Skin
+
+### Button
+Button_797CCC04_7724_8647_41C7_42A9E8F872B9.label = MINI MAP
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20.0618px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20.06px;"><B><I>GDT Ground Floor </I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+
+## Media
+
+### Title
+map_FAA00C48_E49B_4C3B_41C4_1509836E247E.label = 20210312 GDT ID concept ground floor view locations
+panorama_E835B4DF_E4AB_DCD8_41A8_38CAC378B4F4.label = 01
+panorama_EF018D00_E4AB_CD28_41DF_FF3E95D115F2.label = 02
+panorama_EF3E0DF0_E4AB_4CEA_41E7_E580643811D0.label = 14
+panorama_EF3E1E5E_E4AA_CFD6_41DB_219EBF65F9D5.label = 16
+panorama_EF3E3DBB_E4AB_CD58_41C8_F8D24B54EB4E.label = 04
+panorama_EF3E3E70_E4AB_4FE9_41EC_554109CD9FD8.label = 12
+panorama_EF3E4578_E4AB_FDD8_41C7_1DC365129C34.label = 03
+panorama_EF3E4654_E4AB_3F2A_41AA_2DF975437676.label = 15
+panorama_EF3E4DCF_E4AB_CD38_41E0_8D22A53CCB47.label = 06
+panorama_EF3E7620_E4AB_DF68_41E9_C21D9C843E4F.label = 05
+panorama_EF3E863A_E4AB_5F59_41E6_F8BDC3CEF975.label = 09
+panorama_EF3ED5E4_E4AB_3CE9_41D5_41D1D3FEAE75.label = 07
+panorama_EF3ED631_E4AB_5F6B_41E9_9F292125703F.label = 13
+panorama_EF3EDE07_E4AB_4F28_41E7_2C06DF819C3B.label = 08
+panorama_EF3EE671_E4AB_7FEA_41C1_B20BC61A5797.label = 11
+panorama_EF3EEE5D_E4AB_4FDB_41DB_E655C0734449.label = 10
+
+## Action
+
+### URL
+LinkBehaviour_62794666_79E9_03EC_41D4_DDAD94DA9992.source = https://www.cmedcc.com/
+LinkBehaviour_6C7D38B0_671C_6FF3_41BD_FA54706086B5.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_6C7D48B0_671C_6FF3_41B6_9AB60445937E.source = https://www.linkedin.com/company/cmedcc/
